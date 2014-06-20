@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FDB383CC-006B-4721-B614-66DE0A8DBA95</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DontTouchWhiteBlock</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8E132B0C-B576-42BD-AB29-B9B568F5275B</key>
+		<string>https://github.com/s2003zy/DontTouchWhiteBlock.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DontTouchWhiteBlock/proj.ios_mac/DontTouchWhiteBlock.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8E132B0C-B576-42BD-AB29-B9B568F5275B</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/s2003zy/DontTouchWhiteBlock.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8E132B0C-B576-42BD-AB29-B9B568F5275B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8E132B0C-B576-42BD-AB29-B9B568F5275B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>dontTouchWhiteBlock</string>
+		</dict>
+	</array>
+</dict>
+</plist>
